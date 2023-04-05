@@ -4,50 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80ccec0a-36cf-4876-a2b9-3a264dc92a7f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/Geometry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/Segment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/SimpleDrawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/MeetingInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/PawnPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/PawnPosition2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/Position2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie04/LinesInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie04/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie05/Aukcja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie05/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie06/ArchivizerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie06/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie07/Histogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie07/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie07/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie08/Histogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie08/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie08/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie09/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie09/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie10/NetConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie10/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie11/GeneratorZdan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie11/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie12/FieldInspectorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie12/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie13/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie13/SupplierInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie14/LifeGameInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie14/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie15/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie15/img.png" afterDir="false" />
+    <list default="true" id="80ccec0a-36cf-4876-a2b9-3a264dc92a7f" name="Changes" comment="Interfaces and readme's">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie01/Decoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie04/Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie01/DecoderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie02/DrawingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie03/MeetingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie04/LinesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,7 +56,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Projekty/Java-University-Course/src/main/java/Zadanie08",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Projekty/Java-University-Course/src/main/java/Zadanie15",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,11 +72,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie15" />
       <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie08" />
       <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie07" />
       <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie05" />
       <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie04" />
-      <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie03" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Zadanie04" />
+      <recent name="Zadanie03" />
+      <recent name="Zadanie02" />
+      <recent name="Zadanie01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Zadanie14" />
@@ -104,6 +95,96 @@
       <recent name="Zadanie10" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.LinesTest.findConnectionTestAtoB">
+    <configuration name="LinesTest.findConnectionTestAtoB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-University-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie04" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie04.LinesTest" />
+      <option name="METHOD_NAME" value="findConnectionTestAtoB" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinesTest.getMapEndpointsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-University-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie04" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie04.LinesTest" />
+      <option name="METHOD_NAME" value="getMapEndpointsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeetingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-University-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie03" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie03.MeetingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeetingTest.secondPawnShouldntReachMeetingPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-University-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie03" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie03.MeetingTest" />
+      <option name="METHOD_NAME" value="secondPawnShouldntReachMeetingPoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeetingTest.singlePawnShouldReachMeetingPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-University-Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie03" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie03.MeetingTest" />
+      <option name="METHOD_NAME" value="singlePawnShouldReachMeetingPoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinesTest.findConnectionTestAtoB" />
+        <item itemvalue="JUnit.LinesTest.getMapEndpointsTest" />
+        <item itemvalue="JUnit.MeetingTest.secondPawnShouldntReachMeetingPoint" />
+        <item itemvalue="JUnit.MeetingTest" />
+        <item itemvalue="JUnit.MeetingTest.singlePawnShouldReachMeetingPoint" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -112,7 +193,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680722594714</updated>
-      <workItem from="1680722595946" duration="766000" />
+      <workItem from="1680722595946" duration="8418000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1680722823494</created>
@@ -128,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680722838830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Interfaces and readme's">
+      <created>1680723513731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680723513731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +224,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Interfaces and readme's" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces and readme's" />
   </component>
 </project>
