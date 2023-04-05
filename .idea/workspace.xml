@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80ccec0a-36cf-4876-a2b9-3a264dc92a7f" name="Changes" comment="" />
+    <list default="true" id="80ccec0a-36cf-4876-a2b9-3a264dc92a7f" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/Segment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/SimpleDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/MeetingInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/PawnPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/PawnPosition2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/Position2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie04/LinesInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie04/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie05/Aukcja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie05/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie06/ArchivizerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie06/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie07/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie07/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie07/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie08/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie08/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie08/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie09/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie09/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie10/NetConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie10/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie11/GeneratorZdan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie11/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie12/FieldInspectorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie12/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie13/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie13/SupplierInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie14/LifeGameInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie14/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie15/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie15/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +51,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,7 +63,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2O1KLSa26nc7df0Mndq7JNABY4Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,10 +74,36 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Projekty/Java-University-Course/src/main/java/Zadanie08",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie08" />
+      <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie07" />
+      <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie05" />
+      <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie04" />
+      <recent name="C:\Projekty\Java-University-Course\src\main\java\Zadanie03" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Zadanie14" />
+      <recent name="Zadanie13" />
+      <recent name="Zadanie12" />
+      <recent name="Zadanie11" />
+      <recent name="Zadanie10" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,8 +112,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680722594714</updated>
-      <workItem from="1680722595946" duration="1000" />
+      <workItem from="1680722595946" duration="766000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1680722823494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680722823494</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1680722838830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680722838830</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
