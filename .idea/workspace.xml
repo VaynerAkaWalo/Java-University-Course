@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80ccec0a-36cf-4876-a2b9-3a264dc92a7f" name="Changes" comment="Interfaces and readme's">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie01/Decoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie02/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie03/Meeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie04/Lines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie01/DecoderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie02/DrawingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie03/MeetingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie04/LinesTest.java" afterDir="false" />
+    <list default="true" id="80ccec0a-36cf-4876-a2b9-3a264dc92a7f" name="Changes" comment="First 5">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie06/Archivizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie07/FastHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie08/MultipleHistograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie09/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie10/Connector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie11/ZdaniaSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie12/FieldInspector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie13/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie14/LifeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,7 +59,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Projekty/Java-University-Course/src/main/java/Zadanie15",
+    "last_opened_file_path": "C:/Projekty/Java-University-Course",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +83,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Zadanie05" />
       <recent name="Zadanie04" />
       <recent name="Zadanie03" />
       <recent name="Zadanie02" />
@@ -193,7 +195,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680722594714</updated>
-      <workItem from="1680722595946" duration="8418000" />
+      <workItem from="1680722595946" duration="9636000" />
+      <workItem from="1680784393927" duration="1035000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1680722823494</created>
@@ -216,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680723513731</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First 5">
+      <created>1680731651439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680731651439</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +235,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Interfaces and readme's" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interfaces and readme's" />
+    <MESSAGE value="First 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="First 5" />
   </component>
 </project>
