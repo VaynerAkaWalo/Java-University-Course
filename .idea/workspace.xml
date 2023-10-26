@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80ccec0a-36cf-4876-a2b9-3a264dc92a7f" name="Changes" comment="First 5">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie06/Archivizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie07/FastHistogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie08/MultipleHistograms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie09/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie10/Connector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie11/ZdaniaSQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie12/FieldInspector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie13/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie14/LifeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +28,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2O1KLSa26nc7df0Mndq7JNABY4Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,7 +50,8 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Projekty/Java-University-Course",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/vayner/IdeaProjects/Java-University-Course",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +60,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -197,6 +190,10 @@
       <updated>1680722594714</updated>
       <workItem from="1680722595946" duration="9636000" />
       <workItem from="1680784393927" duration="1035000" />
+      <workItem from="1688028643468" duration="551000" />
+      <workItem from="1688029661937" duration="1000" />
+      <workItem from="1690302509362" duration="2219000" />
+      <workItem from="1698358966187" duration="799000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1680722823494</created>
