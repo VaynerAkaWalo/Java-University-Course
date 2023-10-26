@@ -10,11 +10,8 @@ The repository is organized into separate modules, each containing a specific as
 
 In some modules, I have written tests using JUnit 5 to verify the correctness of my solutions.
 
----
 
 Feel free to explore each assignment, its source code, and README file to understand the solutions and how they meet the assignment requirements.
-
----
 
 If you have any questions or need further clarification on any assignment or its implementation, please don't hesitate to reach out.
 
